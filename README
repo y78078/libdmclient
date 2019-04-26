@@ -104,7 +104,7 @@ Compiling on Linux
 ------------------
 
 libdmclient requires some packages:
-  - autoconf automake libtool gcc make
+  - autoconf automake libtool gcc make //pkg-config
       for the build system
 
 Two other packages are optionnal:
