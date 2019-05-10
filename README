@@ -108,7 +108,7 @@ libdmclient requires some packages:
       for the build system
 
 Two other packages are optionnal:
-  - libcurl-devel //linbcurl-openssl1.0-dev
+  - libcurl-devel //libcurl-openssl1.0-dev
       for the test client
   - sqlite-devel //sqlite3 libsqlite3-dev
       for test Storage MO
