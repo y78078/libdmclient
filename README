@@ -92,7 +92,7 @@ Source Layout
  |    |    +- Memory    (stores added nodes in memory)
  |    |    |
  |    |    +- Storage   (stores added nodes in a SQL DB)
- |    |    |
+ |    |    | file at /tmp command: 1. sqlite3 2. .open dmsettings.db 3. select * from explicit 4. .tables
  |    |    +- utils     (utility functions for hard-coded nodes)
  |    |
  |    +- windows        (test client and plugins for Windows)
