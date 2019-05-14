@@ -116,7 +116,7 @@ Two other packages are optionnal:
 In the source top directory, run the following commands:
     autoreconf -i
     ./configure [options]
-    make
+    make  //  libdmclient/tests/.libs/*.so to target /usr/local/bin/plugins/ to instead "make install"
     make install
 
 Specific configure options are:
