@@ -96,7 +96,7 @@ Source Layout
  |    |    +- utils     (utility functions for hard-coded nodes)
  |    |
  |    +- windows        (test client and plugins for Windows)
- |
+ |    +- .libs   "copy *.so to /usr/local/bin/plugins"
  +- windows             (build system for Windows)
 
 
